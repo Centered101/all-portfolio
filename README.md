@@ -1,22 +1,16 @@
 # 👏
 
-<details><summary><strong>Active projects</strong></summary>
+<details>
+<summary>
+<strong>Active projects</strong></summary>
 
-- [.live](https://github.com/bossoq/.live)
-- [ODD แ OUT](https://github.com/bossoq/odd-aer-out)
-- [Siew Generator](https://github.com/bossoq/siew-generator)
-- [toSalim](https://github.com/bossoq/toSalim)
-- [Resume](https://github.com/bossoq/resume)
-- [SimpleSveltekitTemplate](https://github.com/bossoq/simple-sveltekit-template)
-- [MarketReturnsCalculator](https://github.com/bossoq/MarketStatisticsReact)
-- [Tutoring School Website](https://github.com/bossoq/supapanya)
-- [SniffsLiveTwitchBot](https://github.com/Ponny035/SniffsLiveTwitchBot)
-- [SniffsLiveDiscordBot](https://github.com/bossoq/SniffsbotDiscord)
-- [SniffsLiveWebfeed](https://github.com/bossoq/SniffsbotWebfeed)
+- [🦦](https://centered101-webfollow.web.app/)
 
 </details>
 
-<details><summary><strong>Stats</strong></summary>
+<details>
+<summary>
+<strong>Stats</strong></summary>
 
 ## Stats
 
