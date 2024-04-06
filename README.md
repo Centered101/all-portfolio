@@ -30,7 +30,6 @@
 
 # Credit
 > #### Centered101_Phongphon-Phompha
-
 <details>
 <summary>
 <strong>Active projects</strong></summary>
