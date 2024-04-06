@@ -25,6 +25,7 @@
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bossoq&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000)](https://github.com/bossoq)
 
 </details>
+
 [![Tes-D_Centered101](https://centered101-webfollow.web.app/graphic/img/Tes-D.png)](https://centered101-webfollow.web.app/)
 ###### URL Weblog me
     https://centered101-webfollow.firebaesapp.com
