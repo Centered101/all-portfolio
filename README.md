@@ -30,9 +30,6 @@
 
 # Credit
 > #### Centered101_Phongphon-Phompha
-
-# 
-
 <details>
 <summary>
 <strong>Active projects</strong></summary>
@@ -53,7 +50,9 @@
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=centered101&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000)](https://github.com/Centered101)
 
-</details>## Support my work
+</details>
+
+## Support my work
 <a href="https://www.buymeacoffee.com/centered101" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="width: 100%"></a>
 
 <!-- Proudly created by Center (@centered101) -->
