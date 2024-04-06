@@ -2,8 +2,7 @@
 [![Tes-D_Centered101](https://centered101-webfollow.web.app/graphic/img/Tes-D.png)](https://centered101-webfollow.web.app/)
 
     https://centered101-webfollow.firebaesapp.com
-<br>
-     https://centered101-webfollow.web.app/
+    https://centered101-webfollow.web.app/
 
 # Contact me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/centered101)
