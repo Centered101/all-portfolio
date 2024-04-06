@@ -1,5 +1,4 @@
 
-## Updates (อัปเดต) :
 [![centered101](https://centered101-webfollow.web.app/graphic/img/Tes-D.png)](https://centered101-webfollow.web.app/)
 ## Contact me (ติดต่อฉัน) : 📞
 -[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/centered101) <br><br>
