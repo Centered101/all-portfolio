@@ -30,9 +30,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-### Credit (เครดิต)
+## Credit (เครดิต)
 #### Centered101_Phongphon-Phompha
-# Support my work (สนับสนุนงานของฉัน)
+### Support my work (สนับสนุนงานของฉัน)
 <a href="https://www.buymeacoffee.com/centered101" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="width: 100%"></a>
 
 <!-- Proudly created by Center (@centered101) -->
