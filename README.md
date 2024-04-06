@@ -1,4 +1,5 @@
 
+
 # Contact me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/centered101)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/centered101)
@@ -9,13 +10,7 @@
 
 # Tech Stack
 #### Programming language
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-
-#### Hosting
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 #### Frameworks, Platforms & Libraries
@@ -33,7 +28,13 @@
 <details>
 <summary>
 <strong>Active projects</strong></summary>
- - [![Tes-D_Centered101](https://centered101-webfollow.web.app/graphic/img/Tes-D.png)](https://centered101-webfollow.web.app/)
+ - logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+
+#### Hosting[![Tes-D_Centered101](https://centered101-webfollow.web.app/graphic/img/Tes-D.png)](https://centered101-webfollow.web.app/)
 
 ###### URL Weblog me
     https://centered101-webfollow.firebaesapp.com
