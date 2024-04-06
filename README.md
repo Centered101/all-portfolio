@@ -21,17 +21,19 @@
 ### |Hosting (โฮสติ้ง)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-### |Frameworks, Platforms & Libraries <br> (แฟรมเวิก, แพลตฟอร์ม และไลบรารี)
+### |Frameworks, Platforms & Libraries (แฟรมเวิก, แพลตฟอร์ม และไลบรารี)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### |Databases & Design Tools <br> (ฐานข้อมูล และเครื่องมือออกแบบ)
+### |Databases & Design Tools (ฐานข้อมูล และเครื่องมือออกแบบ)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-# Support my work <br> (สนับสนุนงานของฉัน)
+##Credit (เครดิต)
+Centered101_Phongphon-Phompha
+# Support my work (สนับสนุนงานของฉัน)
 <a href="https://www.buymeacoffee.com/centered101" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="width: 100%"></a>
 
 <!-- Proudly created by Center (@centered101) -->
