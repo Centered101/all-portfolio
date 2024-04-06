@@ -4,7 +4,6 @@
 <summary>
 <strong>Active projects</strong></summary>
  - [![Tes-D_Centered101](https://centered101-webfollow.web.app/graphic/img/Tes-D.png)](https://centered101-webfollow.web.app/)
-
 ###### URL Weblog me
     https://centered101-webfollow.firebaesapp.com
     https://centered101-webfollow.web.app/​
@@ -17,7 +16,7 @@
 
 ## Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=bossoq&count_private=true&show_icons=true&hide_border=true&custom_title=Stats&bg_color=00000000)](https://github.com/bossoq)
+[![Stats](https://github-readme-stats.vercel.app/api?username=bossoq&count_private=true&show_icons=true&hide_border=true&custom_title=Stats&bg_color=00000000)](https://github.com/Centered101)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bossoq&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000)](https://github.com/bossoq)
 
