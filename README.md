@@ -9,7 +9,7 @@
 <!-- -#FF5D00[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/centered101) <br> -->
 
 ## Tech Stack (เทคสแต็ค) : 💻
-    Bash
+    Bash ffff
 ### |Programming language (ภาษาโปรแกรม)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +29,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-    Bash
+
 ## Credit (เครดิต)
 ### Centered101_Phongphon-Phompha
 # Support my work (สนับสนุนงานของฉัน)
