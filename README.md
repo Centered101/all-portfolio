@@ -7,8 +7,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@centered101)
 <!-- [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/centered101) <br> -->
 
-# Credit
-> #### Centered101_Phongphon-Phompha
 <details>
 <summary>
 <strong>Active projects</strong></summary>
